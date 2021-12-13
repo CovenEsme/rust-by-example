@@ -4,7 +4,7 @@ A playground repository for learning how the Rust programming language works.
 ## Concepts to Cover
 * ~~Hello World~~
 * ~~Primatives~~
-* Custom Types
+* ~~Custom Types~~
 * Variable Bindings
 * Types
 * Conversion
