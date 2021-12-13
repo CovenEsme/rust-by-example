@@ -5,7 +5,7 @@ A playground repository for learning how the Rust programming language works.
 * [x] ~~Hello World~~
 * [x] ~~Primatives~~
 * [x] ~~Custom Types~~
-* [ ] Variable Bindings
+* [x] ~~Variable Bindings~~
 * [ ] Types
 * [ ] Conversion
 * [ ] Expressions
