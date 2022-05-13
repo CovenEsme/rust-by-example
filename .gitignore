@@ -1,8 +1,12 @@
-# Ignore all
+# Ignore all.
 *
 
-# Unignore files with extensions
+# Unignore files with extensions.
 !*.*
 
-# Unignore directories
+# Ignore compiled files.
+*.exe
+*.pdb
+
+# Unignore directories.
 !*/
